@@ -1,9 +1,10 @@
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import  Navmenu  from './components/Navmenu';
 
 function App() {
   return (
-    <h2>Good</h2>
+    <Navmenu />
   );
 }
 
